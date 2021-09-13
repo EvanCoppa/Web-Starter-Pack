@@ -26,6 +26,12 @@ This allows you to see your changes in real time while working on a project
 
 [W3 Schools](https://www.w3schools.com)
 
+## Launch your page
+Right Click index.html
+Click Open with live server
+
+![Example](/images/example.png)
+
 
 ## What Each language Does
 
