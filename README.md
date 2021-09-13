@@ -22,9 +22,11 @@ This allows you to see your changes in real time while working on a project
 
 ![Live Server](/images/live-server.png)
 
-## Resorces!!!
+## Clone page
+In the terminal go to folder you want your project in then, 
 
-[W3 Schools](https://www.w3schools.com)
+
+    Use the command git clone https://github.com/EvanCoppa/Web-Starter-Pack.git
 
 ## Launch your page
 Right Click index.html
@@ -32,6 +34,10 @@ Click Open with live server
 
 ![Example](/images/example.png)
 
+
+## Resorces!!!
+
+[W3 Schools](https://www.w3schools.com)
 
 ## What Each language Does
 
